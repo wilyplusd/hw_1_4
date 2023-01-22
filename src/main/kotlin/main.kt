@@ -55,6 +55,6 @@ fun takeTransferFee(
 }
 
 fun main() {
-    print(takeTransferFee(80000.00,  80000.00, KindPay.MIR))
+    //print(takeTransferFee(80000.00,  80000.00, KindPay.MIR))
 
 }

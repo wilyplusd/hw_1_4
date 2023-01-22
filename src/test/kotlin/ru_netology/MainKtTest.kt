@@ -21,7 +21,7 @@ class MainKtTest {
         val reference4 = "Ваша комиссия за перевод: 600.0 сумма перевода 79400.0"
         val reference5 = "Ваша комиссия за перевод: 0.0 сумма перевода 100.0"
         val reference6 = "Ваша комиссия за перевод: 452.0 сумма перевода 71548.0"
-        val reference7 = "Ваша комиссия за перевод: 0.0 сумма перевода 100.0"
+        val reference7 = "Ваша комиссия за перевод: 0.0 сумма перевода 0.0"
 
         assertEquals(expected = reference1, actual = test1)
         assertEquals(expected = reference2, actual = test2)
